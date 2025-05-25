@@ -9,7 +9,7 @@ const openSans = Open_Sans({
 });
 
 export const metadata: Metadata = {
-  title: 'Momentum AI',
+  title: 'Taskly',
   description: 'Daily Task Planner with AI Suggestions',
 };
 
